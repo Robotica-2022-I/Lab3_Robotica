@@ -13,4 +13,10 @@ David Leonardo Cocoma Reyes
 Para el desarrollo de esta práctica fue necesario, realizarlo en Linux, ya que tanto Ros, como el ejercicio "Hello Turtle" solo estan disponibles para este sistema operativo.
 
 
+# 2)Ejercicio
+El trabajo, código hello_turtle contiene un archivo el cual define que las fechas del teclado 
 
+# 3) Desarrollo laboratorio
+
+
+# 4) 
