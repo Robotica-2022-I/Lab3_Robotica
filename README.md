@@ -34,4 +34,4 @@ La idea de este laboratorio es crear nuestro propio archivo, llamado "myTeleopKe
   
 # 5) Conclusiones
 
-  - El framework ROS es de suma importancia para la robótica de desarrollo, ya que facilita la implementación de instrucciones a un brazo robot.
+  - El framework ROS es de suma importancia para la robótica de desarrollo, ya que facilita la implementación de instrucciones en un brazo robot.
