@@ -35,3 +35,5 @@ La idea de este laboratorio es crear nuestro propio script, llamado "myTeleopKey
 # 5) Conclusiones
 
   - El framework ROS es de suma importancia para la robótica de desarrollo, ya que facilita la implementación de instrucciones a un sistema.
+  
+  - Facilita la comunicación entre diversos sistemas por medio de ROS y los servidores generados por este, de manera que no se necesita realizar una implementación nativa de las instrucciones gracias a que permite modificar en tiempo real por medio de distintos scripts sin importar el lenguaje.
